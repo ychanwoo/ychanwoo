@@ -1,9 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9A73BD,100:83C4D4&height=190&section=header&text=%20ychanwoo&fontColor=ffffff&fontSize=40&fontAlignY=45&animation=fadeIn" alt="ychanwoo profile header" />
 
-## 👋 Hello
+## 🏃‍♂️Pacing myself, one commit at a time.
 
-I continuously document my journey and strive to grow.
-By learning and trying new things, I aim to become a better developer who enjoys the process.
+I love the rhythm of running and the thrill of solving problems.
+<br />
+ Continuously learning, trying new things, and enjoying every single step of the marathon called software development.
 
 <br />
 
@@ -14,6 +15,8 @@ By learning and trying new things, I aim to become a better developer who enjoys
 - 🥈 Excellence Award — AWS DeepRacer Autonomous Driving Competition
 - 🥈 Excellence Award — Daejeon-Chungnam Public Data Utilization Startup Competition
 - 🥉 Encouragement Award — Medical No-show Data Prediction Competition
+  
+<br />
 
 **LikeLion Bootcamp / Front-End** (2025.02)
 
