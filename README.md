@@ -6,12 +6,16 @@ I continuously document my journey and strive to grow.
 
 By learning and trying new things, I aim to become a better developer who enjoys the process.
 
+<br />
+
 ### 💼 Career
 
 **LikeLion Bootcamp / Front-End** (2025.02)
 
 - Completed the final team project, [Hobbism](https://github.com/ychanwoo/Hobbism), a hobby-focused commerce and community platform.
 - Contributed to authentication, My Page, community, advertising, and character features with React, TypeScript, and Next.js.
+
+<br />
 
 ### 🎓 Education & Awards
 
@@ -20,6 +24,8 @@ By learning and trying new things, I aim to become a better developer who enjoys
 - 🥈 Excellence Award — AWS DeepRacer Autonomous Driving Competition
 - 🥈 Excellence Award — Daejeon-Chungnam Public Data Utilization Startup Competition
 - 🥉 Encouragement Award — Medical No-show Data Prediction Competition
+
+<br />
 
 ### 💻 Web Front-End Stacks
 
@@ -34,6 +40,8 @@ By learning and trying new things, I aim to become a better developer who enjoys
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" alt="Node.js" />
 </div>
 
+<br />
+
 ### 📊 Data-Science Stacks
 
 <div align="center">
@@ -42,6 +50,8 @@ By learning and trying new things, I aim to become a better developer who enjoys
 <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white" alt="R" />
 </div>
+
+<br />
 
 ### 🛠️ Tools
 
@@ -55,6 +65,8 @@ By learning and trying new things, I aim to become a better developer who enjoys
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
 </div>
 
+<br />
+
 ### 📌 Projects
 
 **[ShoePlan](https://github.com/ychanwoo/ShoePlan)** (2026.02 - 2026.05)
@@ -65,11 +77,15 @@ By learning and trying new things, I aim to become a better developer who enjoys
 
 - A hobby-centered shopping and community platform with social feeds, character growth, and live-commerce experiences.
 
+<br />
+
 ### 📫 Contact me
 
 <a href="https://mail.google.com/mail/u/0/"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://github.com/ychanwoo"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/%EC%98%81%EC%B0%AC-%EC%9A%B0-600971379/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+<br />
 
 ### 📈 Activity
 
