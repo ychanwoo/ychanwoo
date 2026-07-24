@@ -1,19 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9A73BD,100:83C4D4&height=190&section=header&text=%20ychanwoo&fontColor=ffffff&fontSize=40&fontAlignY=45&animation=fadeIn" alt="ychanwoo profile header" />
 
-## 👋 Hello, I'm a developer
+## 👋 Hello
 
 I continuously document my journey and strive to grow.
-
 By learning and trying new things, I aim to become a better developer who enjoys the process.
-
-<br />
-
-### 💼 Career
-
-**LikeLion Bootcamp / Front-End** (2025.02)
-
-- Completed the final team project, [Hobbism](https://github.com/ychanwoo/Hobbism), a hobby-focused commerce and community platform.
-- Contributed to authentication, My Page, community, advertising, and character features with React, TypeScript, and Next.js.
 
 <br />
 
@@ -24,6 +14,11 @@ By learning and trying new things, I aim to become a better developer who enjoys
 - 🥈 Excellence Award — AWS DeepRacer Autonomous Driving Competition
 - 🥈 Excellence Award — Daejeon-Chungnam Public Data Utilization Startup Competition
 - 🥉 Encouragement Award — Medical No-show Data Prediction Competition
+
+**LikeLion Bootcamp / Front-End** (2025.02)
+
+- Completed the final team project, [Hobbism](https://github.com/ychanwoo/Hobbism), a hobby-focused commerce and community platform.
+- Contributed to authentication, My Page, community, advertising, and character features with React, TypeScript, and Next.js.
 
 <br />
 
