@@ -11,18 +11,19 @@ By learning and trying new things, I aim to become a better developer who enjoys
 **LikeLion Bootcamp / Front-End** (2025.02)
 
 - Completed the final team project, [Hobbism](https://github.com/ychanwoo/Hobbism), a hobby-focused commerce and community platform.
-- Contributed to authentication, My Page, community, advertising, and character features with React, TypeScript, and Tailwind CSS.
+- Contributed to authentication, My Page, community, advertising, and character features with React, TypeScript, and Next.js.
 
 ### 🎓 Education & Awards
 
-**Soonchunhyang University / Department of Artificial Intelligence and Big Data**
+**Soonchunhyang University / Department of Artificial Intelligence and Big Data** (2021.03~)
 
-- Excellence Award — AWS DeepRacer Autonomous Driving Competition
-- Excellence Award — Daejeon-Chungnam Public Data Utilization Startup Competition
-- Encouragement Award — Medical No-show Data Prediction Competition
+- 🥈 Excellence Award — AWS DeepRacer Autonomous Driving Competition
+- 🥈 Excellence Award — Daejeon-Chungnam Public Data Utilization Startup Competition
+- 🥉 Encouragement Award — Medical No-show Data Prediction Competition
 
 ### 💻 Web Front-End Stacks
 
+<div align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" alt="CSS3" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
@@ -31,16 +32,20 @@ By learning and trying new things, I aim to become a better developer who enjoys
 <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=white" alt="React" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" alt="Next.js" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" alt="Node.js" />
+</div>
 
 ### 📊 Data-Science Stacks
 
+<div align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white" alt="NumPy" />
 <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white" alt="R" />
+</div>
 
 ### 🛠️ Tools
 
+<div align="center">
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" alt="Notion" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
@@ -48,6 +53,7 @@ By learning and trying new things, I aim to become a better developer who enjoys
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" alt="Postman" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" alt="Figma" />
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+</div>
 
 ### 📌 Projects
 
