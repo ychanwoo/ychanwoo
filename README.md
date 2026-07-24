@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=5c6575&height=180&section=header&text=ychanwoo&fontColor=dfdddd&fontSize=58&fontAlignY=42&desc=frontend%20%7C%20data%20%7C%20learning&descAlignY=64&descSize=16" alt="ychanwoo profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B73BD,100:83C4D4&height=190&section=header&text=🏃%20ychanwoo&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=frontend%20%7C%20data%20%7C%20learning&descAlignY=62&descSize=16&animation=fadeIn" alt="ychanwoo profile header" />
 </div>
 
 <div align="center">
@@ -11,7 +11,27 @@
 </div>
 
 <div align="center">
-  <h3 align="center">🖥️ Web Front-End Stacks</h3>
+  <h3>💼 Career</h3>
+  <p><b>LikeLion Bootcamp</b> · Front-End · 2025.02</p>
+  <p>
+    Completed the final team project, <a href="https://github.com/ychanwoo/Hobbism">Hobbism</a>,
+    a hobby-focused commerce and community platform. Contributed to authentication, My Page,
+    community, advertising, and character features with React, TypeScript, and Tailwind CSS.
+  </p>
+</div>
+
+<div align="center">
+  <h3>🎓 Education & Awards</h3>
+  <p><b>Soonchunhyang University</b> · Department of Artificial Intelligence and Big Data</p>
+  <p>
+    🏆 Excellence Award — AWS DeepRacer Autonomous Driving Competition<br />
+    🏆 Excellence Award — Daejeon-Chungnam Public Data Utilization Startup Competition<br />
+    🏅 Encouragement Award — Medical No-show Data Prediction Competition
+  </p>
+</div>
+
+<div align="center">
+  <h3 align="center">💻 Web Front-End Stacks</h3>
   <div align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" alt="CSS3" />
@@ -25,7 +45,7 @@
 </div>
 
 <div align="center">
-  <h3>🖥️ Data-Science Stacks</h3>
+  <h3>📊 Data-Science Stacks</h3>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
@@ -33,7 +53,7 @@
 </div>
 
 <div align="center">
-  <h3>🖥️ Tools</h3>
+  <h3>🛠️ Tools</h3>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" alt="Notion" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
@@ -44,9 +64,22 @@
 </div>
 
 <div align="center">
+  <h3>📌 Projects</h3>
+  <p>
+    <b><a href="https://github.com/ychanwoo/ShoePlan">ShoePlan</a></b> · 2026.02 – 2026.05<br />
+    A personalized running-shoe care service that combines mileage tracking with AI-powered outsole wear analysis.
+  </p>
+  <p>
+    <b><a href="https://github.com/ychanwoo/Hobbism">Hobbism</a></b> · 2025.07 – 2025.08<br />
+    A hobby-centered shopping and community platform with social feeds, character growth, and live-commerce experiences.
+  </p>
+</div>
+
+<div align="center">
   <h3>📫 Contact me</h3>
   <a href="https://mail.google.com/mail/u/0/"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://github.com/ychanwoo"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/%EC%98%81%EC%B0%AC-%EC%9A%B0-600971379/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
 
 <br />
