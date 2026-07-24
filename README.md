@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B73BD,100:83C4D4&height=190&section=header&text=🏃%20ychanwoo&fontColor=ffffff&fontSize=52&fontAlignY=45&animation=fadeIn" alt="ychanwoo profile header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B73BD,100:83C4D4&height=190&section=header& %20ychanwoo&fontColor=ffffff&fontSize=40&fontAlignY=45&animation=fadeIn" alt="ychanwoo profile header" />
 
 ## 👋 Hello, I'm a developer
 
