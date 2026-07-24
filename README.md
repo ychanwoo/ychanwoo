@@ -83,7 +83,7 @@ By learning and trying new things, I aim to become a better developer who enjoys
 
 <a href="https://mail.google.com/mail/u/0/"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://github.com/ychanwoo"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/%EC%98%81%EC%B0%AC-%EC%9A%B0-600971379/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="[https://www.linkedin.com/in/%EC%98%81%EC%B0%AC-%EC%9A%B0-600971379](https://www.linkedin.com/in/youngchan-woo-600971379/)/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 <br />
 
