@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9A73BD,100:83C4D4&height=190&section=header&text=%20ychanwoo&fontColor=ffffff&fontSize=40&fontAlignY=45&animation=fadeIn" alt="ychanwoo profile header" />
+<a href="https://github.com/ychanwoo">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&pause=1000&color=83C4D4&vCenter=true&width=600&height=100&lines=>_Hello,+I'm+ychanwoo;>_AI+/+Data+/+Frontend" alt="Typing SVG" />
+</a>
 
 ## 🏃‍♂️Pacing myself, one commit at a time.
 
