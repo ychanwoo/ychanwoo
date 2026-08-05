@@ -17,10 +17,13 @@ I love the rhythm of running and the thrill of solving problems.
 - 🥈 Excellence Award — AWS DeepRacer Autonomous Driving Competition
 - 🥈 Excellence Award — Daejeon-Chungnam Public Data Utilization Startup Competition
 - 🥉 Encouragement Award — Medical No-show Data Prediction Competition
+
+**Hackathon**
+- ✨ Effort Award — Chuncheon Hackathon (Bomnae Masil)
   
 <br />
 
-**LikeLion Bootcamp / Front-End** (2025.02)
+**LikeLion Bootcamp / Front-End** (2025.02 - 2026.08)
 
 - Completed the final team project, [Hobbism](https://github.com/ychanwoo/Hobbism), a hobby-focused commerce and community platform.
 - Contributed to authentication, My Page, community, advertising, and character features with React, TypeScript, and Next.js.
@@ -68,6 +71,10 @@ I love the rhythm of running and the thrill of solving problems.
 <br />
 
 ### 📌 Projects
+
+**[Bomnae-masil](https://github.com/ychanwoo/bomnae-masil)** (2026.07.31 - 2026.08.01)
+
+- A personalized platform that helps people explore Chuncheon through local experiences, small businesses, and transit-friendly quests.
 
 **[ShoePlan](https://github.com/ychanwoo/ShoePlan)** (2026.02 - 2026.05)
 
